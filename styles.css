@@ -35,7 +35,7 @@
             border-radius: 5px;
             box-sizing: border-box;
         }
-        button {
+        #submit {
             background-color: #4CAF50;
             color: white;
             border: none;
